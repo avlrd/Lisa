@@ -16,5 +16,6 @@
 	main {
 		padding: 0 2rem;
 		width: 20%;
+		margin: 0 auto;
 	}
 </style>
